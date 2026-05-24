@@ -1,6 +1,10 @@
-# Ecommerce Product Service
+# ecommerce-product-service
 
 A Spring Boot backend service for ecommerce product and category management. The project implements REST APIs for products, categories, cart lookup integration, persistence, caching, DTO mapping, and centralized exception handling.
+
+## Portfolio Role
+
+This repository is maintained by Mamani Kedarnath as a backend portfolio project focused on Spring Boot service design, REST APIs, persistence, caching, and clean project documentation.
 
 ## Tech Stack
 
